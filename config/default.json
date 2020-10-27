@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Sumanth:sumanth@1006@cluster0.samvk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secretToken@DevConnect",
+  "githubClientId": "ec9f08de17051176ca70",
+  "githubSecret": "c40b423a8e1827d20b78dc49d1f8c57f2e6c9ac3"
+}
